@@ -1,0 +1,14 @@
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.exe.config
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.exe
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.pdb
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\Excel.dll
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.csproj.ResolveComReference.cache
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.exe
+C:\Users\desikavinayagam_s\Desktop\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.pdb
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.exe.config
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.exe
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\bin\Debug\SendMailApplication.pdb
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.csprojResolveAssemblyReference.cache
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.csproj.ResolveComReference.cache
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.exe
+D:\Deployment\App_For_SendingMail\SendMailExe\SendMailApplication\SendMailApplication\obj\Debug\SendMailApplication.pdb
